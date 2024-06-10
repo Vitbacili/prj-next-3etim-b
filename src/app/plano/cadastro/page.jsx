@@ -1,7 +1,7 @@
 export default function CadPlano() {
   return (
     <div>
-      <h1>Listar Planos</h1>
+      <h1>Cadastrar Plano</h1>
     </div>  
 
   );
